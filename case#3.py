@@ -148,10 +148,6 @@ def levi(n, d):
         levi(n-1, d)
         turtle.left(45)
 
-'''
-def drakon(a, n):
-    #TODO
-'''
 
 def main():
     print(QUEST)
