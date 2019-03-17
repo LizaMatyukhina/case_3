@@ -194,8 +194,7 @@ def main():
         snowflake(a, n)
     elif m == 10:
         levi(n, a / 5)
-    elif m == 11:
-        pass
+
     turtle.mainloop()
 
 
