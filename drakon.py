@@ -1,6 +1,7 @@
 import turtle
 from ru_local import *
 
+
 def drakon(order, x1, x2, y1, y2):
     if order == 0:
         turtle.up()

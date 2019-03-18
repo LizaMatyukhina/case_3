@@ -1,6 +1,7 @@
 import turtle
 from ru_local import *
 
+
 def k(d, n):
     """ Square """
     if n == 0:
@@ -150,6 +151,7 @@ def levi(n, d):
 
 
 def main():
+    """ Main function """
     print(QUEST)
     print(CHOOSE)
     print(NUM_1)
